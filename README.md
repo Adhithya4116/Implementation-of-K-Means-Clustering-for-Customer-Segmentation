@@ -22,7 +22,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ## Program:
 ```
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: Adhithya Perumal.D
+Developed by: ADHITHYA PERUMAL D
 RegisterNumber:  212222230007
 ```
 ```
